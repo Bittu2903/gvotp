@@ -3,7 +3,7 @@ name = "gvotp"
 version = "0.1.0"
 description = "A lightweight in-memory OTP generator and verifier with external record support"
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 authors = [
     {name = "Bittu Singh", email = "bittusinghtech@gmail.com"},
 ]
