@@ -1,6 +1,6 @@
 [project]
 name = "gvotp"
-version = "0.1.0"
+version = "0.1.1"
 description = "A lightweight in-memory OTP generator and verifier with external record support"
 readme = "README.md"
 license = "MIT"
